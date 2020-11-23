@@ -6,3 +6,5 @@ run npm i -D nodemon concurrently,
 Create server.js,
 add scripts to package.json- start, server
 tested that running the script causes the server to run on postman (GET http://localhost:5000)
+
+.03: added config folder with default.json file,
