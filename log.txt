@@ -1,0 +1,1 @@
+.01: set up git and log txt file
